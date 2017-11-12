@@ -1,4 +1,4 @@
-package win.xuzhao.eureka;
+package win.xuzhao.eurekaserver;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

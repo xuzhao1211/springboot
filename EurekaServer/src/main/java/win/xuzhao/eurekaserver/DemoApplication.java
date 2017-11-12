@@ -1,4 +1,4 @@
-package win.xuzhao.eureka;
+package win.xuzhao.eurekaserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
